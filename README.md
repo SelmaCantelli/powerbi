@@ -2,7 +2,7 @@
 
 Estudos de caso
 
-Deixei algumas apresentações nos estudos: Receita Federal e Perfis de clientes.
+Deixei algumas apresentações nos estudos: Receita Federal e Perfis de consumidores.
 
 Seguem outros estudos: 
 
